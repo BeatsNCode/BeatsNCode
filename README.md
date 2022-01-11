@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Jean Augustin (@BeatsNCode)
-- 👀  Interested in Music, UX, Blockchain and Business
+- 👀  Interested in Web Development, Music and e-Commerce
 - 🌱  Currently learning Full Stack Web Development & UX Design
-- 💞️  Looking to collaborate on new and exciting technology, as well as creating amazing experiences for the Web
+- 💞️  Looking to learn and to collaborate on new and exciting technology, as well as creating amazing experiences for the Web
 - 📫  I can be reached via email: jre.augustin@gmail.com
 
 <!---
