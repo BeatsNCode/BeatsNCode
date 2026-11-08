@@ -1,3 +1,3 @@
 Hi, I’m Jean R. Augustin (@BeatsNCode)  
-Engineer, Musician, Builder   
-Experimenting with AI, Web/Mobile Development & Audio Technologies
+Engineer, Musician, Creative   
+Designing and building software, systems, and experiences at the intersection of technology, creativity, and sound
